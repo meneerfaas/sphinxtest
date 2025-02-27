@@ -27,9 +27,7 @@ html_static_path = ['_static']
 
 # Thebe configuration
 thebe_config = {
-    "binderUrl": "https://mybinder.org",  # For testing only
     "repository_url": "https://github.com/meneerfaas/sphinxtest",
     "repository_branch": "main",
-    "selector": "div.highlight",
     "codemirror-theme": "abcdef"
     }
