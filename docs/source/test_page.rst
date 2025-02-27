@@ -1,7 +1,7 @@
 Test page
 ===========
 
-Test
+Testje
 
 .. code-block:: python
     :class: thebe
@@ -9,4 +9,3 @@ Test
     print('hello world!')
 
 .. thebe-button::
-    
