@@ -31,11 +31,5 @@ thebe_config = {
     "repository_url": "https://github.com/meneerfaas/sphinxtest",
     "repository_branch": "main",
     "selector": "div.highlight",
-    "codemirror-config": {
-        "theme": "eclipse",
-        "electricChars": "true",
-        "lineNumbers": "true",
-        "indentWithTabs": "true",
-        "indentUnit": 4,
+    "codemirror-theme": "abcdef"
     }
-}
